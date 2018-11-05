@@ -1,8 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## React Context Api
 
-In the project directory, you can run:
+According to React official Docs The React Context api facilitates the developer to pass data through the component tree without having to pass props down manually at every level.[1] Context is basically used when the data is accessible by many components. It came with react 16.3
+The typical React App the data flow works as top-down through props let’s say if App that displays the name of the person
+1:[https://reactjs.org/docs/context.html]
 
 ### `npm start`
 
