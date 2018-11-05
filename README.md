@@ -106,8 +106,7 @@ const MyContext = React.createContext();
 export class Provider extends Component {
   state = {
     name: "yasir",
-    age: 100,
-    cool: true
+    age: 33,
   };
 
   render() {
